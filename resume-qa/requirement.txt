@@ -1,0 +1,5 @@
+flask
+llama-index
+openai
+python-dotenv
+PyMuPDF  # For reading PDFs
